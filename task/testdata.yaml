@@ -4,3 +4,10 @@ sleep_time: 3
 login: "Petrr"
 password: "fa258a35d9"
 text_test: "text_test"
+url_aut: "https://test-stand.gb.ru/gateway/login"
+url: "https://test-stand.gb.ru/api/posts"
+check_id: 92447
+url_create_post: "https://test-stand.gb.ru/api/posts"
+title:
+description:
+content:

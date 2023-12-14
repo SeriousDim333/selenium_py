@@ -1,7 +1,10 @@
 import time
 from testpage import OperationsHelper
 import logging
+import yaml
 
+with open("./testdata.yaml") as f:
+    testdata = yaml.safe_load(f)
 
 def test_step1(browser):
     logging.info("Test1 starting")
@@ -60,3 +63,13 @@ def test_step4(browser):
     testpage.click_to_contact_us()
     time.sleep(3)
     assert testpage.get_alert_text() == "Form successfully submitted"
+    
+def test_step5(browser, token):
+    logging.info("Test5 starting")
+    testpage = OperationsHelper(browser)
+    assert testdata["check_id"] in testpage.get_post_id(token)
+
+def test_step6(browser, token, send_email):
+    logging.info("Test6 starting")
+    testpage = OperationsHelper(browser)
+    assert "testtt" in testpage.create_post(token, 'title', 'testtt', 'content')

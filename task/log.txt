@@ -1,47 +1,32 @@
-2023-12-08 14:54:14 INFO ====== WebDriver manager ======
-2023-12-08 14:54:15 INFO Get LATEST chromedriver version for google-chrome
-2023-12-08 14:54:15 INFO Get LATEST chromedriver version for google-chrome
-2023-12-08 14:54:16 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
-2023-12-08 14:54:17 INFO Test1 starting
-2023-12-08 14:54:17 INFO Send test to element //*[@id="login"]/div[1]/label/input
-2023-12-08 14:54:17 INFO Send test to element //*[@id="login"]/div[2]/label/input
-2023-12-08 14:54:18 INFO Click login button
-2023-12-08 14:54:19 INFO We find text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
-2023-12-08 14:54:25 INFO ====== WebDriver manager ======
-2023-12-08 14:54:26 INFO Get LATEST chromedriver version for google-chrome
-2023-12-08 14:54:26 INFO Get LATEST chromedriver version for google-chrome
-2023-12-08 14:54:27 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
-2023-12-08 14:54:28 INFO Test2 starting
-2023-12-08 14:54:28 INFO Send Petrr to element //*[@id="login"]/div[1]/label/input
-2023-12-08 14:54:28 INFO Send fa258a35d9 to element //*[@id="login"]/div[2]/label/input
-2023-12-08 14:54:28 INFO Click login button
-2023-12-08 14:54:30 INFO we find text Blog in blog field //*[@id="app"]/main/div/div[1]/h1
-2023-12-08 14:54:30 INFO logout
-2023-12-08 14:54:39 INFO ====== WebDriver manager ======
-2023-12-08 14:54:40 INFO Get LATEST chromedriver version for google-chrome
-2023-12-08 14:54:40 INFO Get LATEST chromedriver version for google-chrome
-2023-12-08 14:54:41 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
-2023-12-08 14:54:42 INFO Test3 starting
-2023-12-08 14:54:42 INFO Send Petrr to element //*[@id="login"]/div[1]/label/input
-2023-12-08 14:54:42 INFO Send fa258a35d9 to element //*[@id="login"]/div[2]/label/input
-2023-12-08 14:54:43 INFO Click login button
-2023-12-08 14:54:46 INFO Click create new post button
-2023-12-08 14:54:49 INFO Send test title to element //*[@id="create-item"]/div/div/div[1]/div/label/input
-2023-12-08 14:54:49 INFO Send test description to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
-2023-12-08 14:54:49 INFO Send test content to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
-2023-12-08 14:54:49 INFO Click save new post button
-2023-12-08 14:54:52 INFO we find text test title in new post field //*[@id="app"]/main/div/div[1]/h1
-2023-12-08 14:54:52 INFO logout
-2023-12-08 14:55:02 INFO ====== WebDriver manager ======
-2023-12-08 14:55:02 INFO Get LATEST chromedriver version for google-chrome
-2023-12-08 14:55:03 INFO Get LATEST chromedriver version for google-chrome
-2023-12-08 14:55:03 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
-2023-12-08 14:55:05 INFO Test4 starting
-2023-12-08 14:55:05 INFO Send Petrr to element //*[@id="login"]/div[1]/label/input
-2023-12-08 14:55:05 INFO Send fa258a35d9 to element //*[@id="login"]/div[2]/label/input
-2023-12-08 14:55:05 INFO Click login button
-2023-12-08 14:55:08 INFO click to contact
-2023-12-08 14:55:08 INFO enter name petr to contact us
-2023-12-08 14:55:09 INFO enter email petr@petr.com to contact us
-2023-12-08 14:55:09 INFO enter content petr content to contact us
-2023-12-08 14:55:09 INFO click to contact us
+2023-12-14 19:17:47 INFO ====== WebDriver manager ======
+2023-12-14 19:17:47 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:17:48 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:17:48 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 19:17:49 INFO Test1 starting
+2023-12-14 19:17:57 INFO ====== WebDriver manager ======
+2023-12-14 19:17:58 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:17:59 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:17:59 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 19:18:00 INFO Test2 starting
+2023-12-14 19:18:02 INFO logout
+2023-12-14 19:18:12 INFO ====== WebDriver manager ======
+2023-12-14 19:18:12 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:18:13 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:18:13 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 19:18:15 INFO Test3 starting
+2023-12-14 19:18:25 INFO logout
+2023-12-14 19:18:35 INFO ====== WebDriver manager ======
+2023-12-14 19:18:36 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:18:36 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:18:36 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 19:18:38 INFO Test4 starting
+2023-12-14 19:18:51 INFO ====== WebDriver manager ======
+2023-12-14 19:18:52 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:18:53 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:18:53 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 19:18:55 INFO Test5 starting
+2023-12-14 19:19:02 INFO ====== WebDriver manager ======
+2023-12-14 19:19:03 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:19:04 INFO Get LATEST chromedriver version for google-chrome
+2023-12-14 19:19:04 INFO Driver [C:\Users\Димон\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-14 19:19:06 INFO Test6 starting
